@@ -24,6 +24,7 @@ _
 E
 _
 * C. Elliot (2017) [Compiling to categories](doc/elliot-2017-compiling-to-categories.pdf)
+* T. Elliot, L. Pike, S. Winwood, P. Hickey, J. Bielman, J. Sharp, E. Siedel, J. Launchbury (2015) [Guilt Free Ivory](doc/ivory-2015.pdf)
 
 F
 _
