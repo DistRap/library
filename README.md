@@ -28,6 +28,7 @@ _
 
 F
 _
+* H. Fu, X. Zhong, Z. Zeng (2006) [Automated and readable simplification of trigonometric expressions](./doc/fu-2006.pdf)
 
 * T. Flouri, K. Kobert, S. P. Pissis, A. Stamatakis (2014) [An Optimal Algorithm for Computing All Subtree Repeats in Trees](doc/flouri-2014.pdf)
 
