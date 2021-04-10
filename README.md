@@ -53,6 +53,7 @@ _
 
 M
 _
+* J. R. Mevey (2009) [Sensorless field oriented control of brushless permanent magnet synchronous motors](./doc/mevey-2009)
 
 N
 _
