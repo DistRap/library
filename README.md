@@ -42,6 +42,7 @@ _
 
 J
 _
+* G. Jaloyan, L. Pike (2017) [Lock Optimization for Hoare Monitors in Real-Time Systems](./doc/tower-2017.pdf)
 
 K
 _
