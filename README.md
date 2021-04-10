@@ -73,6 +73,7 @@ S
 _
 * R. Sawhney, K.Crane (2020) [Monte Carlo Geometry Processing: A Grid-Free Approach to PDE-Based Methods on Volumetric Domains](doc/sawhney-crane-2020.pdf)
 * R. Straub (2007) [Exact Computation of the Hausdorff Distance between Triangular Meshes](doc/straub-2007.pdf)
+* A. Solar-Lezama (2003) [Program Synthesis by Sketching](./doc/solar-lezama-2003.pdf)
 
 T
 _
