@@ -28,6 +28,8 @@ _
 F
 _
 
+* T. Flouri, K. Kobert, S. P. Pissis, A. Stamatakis (2014) [An Optimal Algorithm for Computing All Subtree Repeats in Trees](doc/flouri-2014.pdf)
+
 G
 _
 
